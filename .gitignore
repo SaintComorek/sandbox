@@ -1,0 +1,31 @@
+#####standard .git ignore entries#####
+
+## IDE Specific Files ##
+org.eclipse.core.resources.prefs
+.classpath
+.project
+.settings
+.idea
+.externalToolBuilders
+maven-eclipse.xml
+workspace
+
+## Compilation Files ##
+*.class
+**/target
+target
+target-ide
+MANIFEST.MF
+.flattened-pom.xml
+
+## Misc Ignores (OS specific etc) ##
+bin/
+dist
+*~
+*.ipr
+*.iml
+*.iws
+classes
+out/
+.DS_STORE
+.metadata
