@@ -12,6 +12,7 @@
     <modules>
         <module>example</module>
         <module>union-find/percolation</module>
+        <module>sorting</module>
     </modules>
 
     <properties>
