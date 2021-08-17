@@ -4,5 +4,11 @@
      - selection sort
      - insertion sort
      - shellsort
-     - shuffling
-     - convex hull
+     - quicksort
+     - mergesort
+4. Compare effectivnes of implemented sorting algorithms on various inputs. You can use [Java Microbenchmark Harness](https://github.com/openjdk/jmh). Test these types of inputs
+    - collection with small number of items
+    - collection with large number of items
+    - collection with large number of items partialy sorted
+    - collection with large number of items sorted
+    
