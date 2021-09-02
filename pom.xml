@@ -15,6 +15,7 @@
         <module>sorting</module>
         <module>data-structures</module>
         <module>priority-queue</module>
+        <module>binary-search-tree</module>
     </modules>
 
     <properties>
